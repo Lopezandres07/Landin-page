@@ -1,0 +1,58 @@
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.header {
+  background-image: url(../imgs/Fondo.jpg);
+  background-size: cover;
+  background-position: center;
+  height: 15em;
+  font-size: 2em;
+  padding: 1em;
+  font-weight: bold;
+  font-style: oblique;
+}
+
+.header h1 {
+  font-variant: small-caps;
+  font-weight: bold;
+  margin: 0em;
+}
+
+.header p {
+  margin: 0em;
+}
+
+.products {
+  margin-left: 0em;
+  width: 90em;
+}
+
+.products td {
+  width: 1em;
+  font-size: 1.5em;
+}
+
+.products img {
+  width: 90%;
+  border: solid white;
+}
+
+.footer {
+  background-image: url(../imgs/IconoIG.png);
+  background-position-x: 34.5em;
+  background-position-y: -0.3em;
+  background-repeat: no-repeat;
+  background-size: 3em;
+  background-color: rgb(51, 10, 57);
+  height: 3.5em;
+  line-height: 1.5em;
+  text-align: center;
+  color: white;
+  font-weight: 500;
+  font-size: larger;
+}
+
+.footer p {
+  margin: 0em;
+}
